@@ -91,6 +91,7 @@ main {
   align-items: center;
   justify-content: start;
   gap: 10px;
+  margin-top: 5px;
 }
 
 .card-avatar-image {
