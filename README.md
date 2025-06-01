@@ -3,6 +3,7 @@
 ![Project Design](https://raw.githubusercontent.com/felipedfe/felipedfe/refs/heads/main/assets/fm-preview-blog-card.png)
 
 This is a solution to the [Blog Preview Card challenge on Frontend Mentor ↗️](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+<a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS" target="_blank">Blog Preview Card challenge on Frontend Mentor ↗️</a>
 
 ## Live Site
 
