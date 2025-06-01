@@ -74,6 +74,11 @@ main {
   font-size: var(--font-size-title);
 }
 
+.card-title:hover {
+  cursor: pointer;
+  color: var(--main-color);
+}
+
 .card-text {
   color: var(--gray-500);
   line-height: 1.5rem;
