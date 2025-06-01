@@ -72,11 +72,13 @@ main {
 
 .card-title {
   font-size: var(--font-size-title);
+  margin-right: auto;
 }
 
 .card-title:hover {
   cursor: pointer;
   color: var(--main-color);
+  transition: 0.2s all ease;
 }
 
 .card-text {
